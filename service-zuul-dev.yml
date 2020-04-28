@@ -3,5 +3,5 @@ zuul:
     app-item: /item-service/**
     order-service:
       path: /order-service/**
-      serviceid: app-order
+      serviceid: app-order-want
   ignored-services: app-item
